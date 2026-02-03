@@ -1,4 +1,4 @@
-package com.kovanslab.intern.jaggedarray;
+package com.kovanslab.intern.arraycopy;
 
 public class JaggedArray {
     public static void main(String[] args) {

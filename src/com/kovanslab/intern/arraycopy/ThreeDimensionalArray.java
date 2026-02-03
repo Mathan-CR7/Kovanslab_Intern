@@ -1,4 +1,4 @@
-package com.kovanslab.intern.jaggedarray;
+package com.kovanslab.intern.arraycopy;
 
 public class ThreeDimensionalArray {
     public static void main(String[] args) {
@@ -24,4 +24,5 @@ public class ThreeDimensionalArray {
             System.out.println();
         }
     }
+
 }
