@@ -1,7 +1,7 @@
 ### String
-   -> String is Immutable
-   -> Once a String is created, you can’t change it.
-   -> Any “change” it actually creates a new object in memory.
+-> String is Immutable
+-> Once a String is created, you can’t change it.
+-> Any “change” it actually creates a new object in memory.
 
     Why
 
@@ -29,16 +29,16 @@
 
 ### Regex Pattern Matching
 
-   -> rules to spot text patterns.
+-> rules to spot text patterns.
 
-   1-Pattern
-      -> Defines what to search
-      -> Created once, reused many times
-      -> Pattern.compile()
-   2-Matcher
-      -> Does the actual searching
-      -> It contains Text
-      -> pattern.matcher()
+1-Pattern
+-> Defines what to search
+-> Created once, reused many times
+-> Pattern.compile()
+2-Matcher
+-> Does the actual searching
+-> It contains Text
+-> pattern.matcher()
 
 ### Core Methods
 
