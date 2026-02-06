@@ -1,0 +1,28 @@
+package com.kovanslab.intern.pollymorphism;
+
+
+class Calculator
+{
+    static int add(int a,int b)
+    {
+        return a+b;
+    }
+    static double add(double a,double b)
+    {
+        return a+b;
+    }
+    static int add(int a,int b,int c)
+    {
+        return a+b+c;
+    }
+}
+
+public class MethodOverloading {
+    public static void main(String[] args)
+    {
+        System.out.println(Calculator.add(5,6));
+        System.out.println(Calculator.add(5.5,6.5));
+        System.out.println(Calculator.add(5,4,1));
+
+    }
+}
